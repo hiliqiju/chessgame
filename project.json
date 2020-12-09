@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "MaskChess",
+  "id": "d7c678f3-a3c9-4652-82d2-50810a108d7b",
+  "version": "2.4.2",
+  "isNew": false
+}
